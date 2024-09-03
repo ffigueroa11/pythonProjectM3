@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9804867d-ff71-4bdb-9394-c245525e2a66" name="Changes" comment="se crea funcion hacer_grandioso para modificar listMagos">
+    <list default="true" id="9804867d-ff71-4bdb-9394-c245525e2a66" name="Changes" comment="se genera llamada a funcioens creadas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725323665301</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="se crea funcion que imprime los nombres de la lista original">
+      <option name="closed" value="true" />
+      <created>1725324082356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725324082356</updated>
+    </task>
+    <task id="LOCAL-00007" summary="se genera llamada a funcioens creadas">
+      <option name="closed" value="true" />
+      <created>1725324300407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725324300407</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +136,8 @@
     <MESSAGE value="se crea listNombres" />
     <MESSAGE value="se separan listas" />
     <MESSAGE value="se crea funcion hacer_grandioso para modificar listMagos" />
-    <option name="LAST_COMMIT_MESSAGE" value="se crea funcion hacer_grandioso para modificar listMagos" />
+    <MESSAGE value="se crea funcion que imprime los nombres de la lista original" />
+    <MESSAGE value="se genera llamada a funcioens creadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="se genera llamada a funcioens creadas" />
   </component>
 </project>
