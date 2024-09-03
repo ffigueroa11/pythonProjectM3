@@ -15,14 +15,14 @@ print(listOtros)
 
 
 
-def hacer_grandioso(lista):
-    largo = len(lista)
+def hacer_grandioso(listMagos):
+    largo = len(listMagos)
     for i in range(largo):
-        lista[i] = 'El gran ' + lista[i]
-    return lista
+        listMagos[i] = 'El gran ' + listMagos[i]
 
-listMagosMod = hacer_grandioso(listMagos)
 
-print(listMagosMod)
+hacer_grandioso(listMagos)
+
+print(listMagos)
 
 
