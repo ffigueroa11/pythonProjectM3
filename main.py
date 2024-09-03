@@ -26,8 +26,9 @@ def imprimir_nombres(listNombres):
 print('*** Lista de Nombres ***')
 imprimir_nombres(listNombres)
 
+print('\n*** Lista de Magos ***')
+imprimir_nombres(listMagos)
 hacer_grandioso(listMagos)
-
 print('\n*** Lista de Magos Modificada ***')
 imprimir_nombres(listMagos)
 print('\n*** Lista de Cientificos ***')

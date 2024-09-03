@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9804867d-ff71-4bdb-9394-c245525e2a66" name="Changes" comment="se genera llamada a funcioens creadas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9804867d-ff71-4bdb-9394-c245525e2a66" name="Changes" comment="modificacion final">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725324300407</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modificacion final">
+      <option name="closed" value="true" />
+      <created>1725325227272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725325227272</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +145,7 @@
     <MESSAGE value="se crea funcion hacer_grandioso para modificar listMagos" />
     <MESSAGE value="se crea funcion que imprime los nombres de la lista original" />
     <MESSAGE value="se genera llamada a funcioens creadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="se genera llamada a funcioens creadas" />
+    <MESSAGE value="modificacion final" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificacion final" />
   </component>
 </project>
