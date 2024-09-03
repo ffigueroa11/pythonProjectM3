@@ -21,8 +21,16 @@ def hacer_grandioso(listMagos):
         listMagos[i] = 'El gran ' + listMagos[i]
 
 
+def imprimir_nombres(listNombres):
+    for nombre in listNombres:
+        print(nombre)
+
+
+imprimir_nombres(listNombres)
 hacer_grandioso(listMagos)
 
 print(listMagos)
+
+
 
 
