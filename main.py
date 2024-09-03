@@ -25,11 +25,18 @@ def imprimir_nombres(listNombres):
     for nombre in listNombres:
         print(nombre)
 
-
+print('*** Lista de Nombres ***')
 imprimir_nombres(listNombres)
+
 hacer_grandioso(listMagos)
 
-print(listMagos)
+print('*** Lista de Magos Modificada ***')
+imprimir_nombres(listMagos)
+print('*** Lista de Cientificos ***')
+imprimir_nombres(listCientificos)
+print('*** Lista de Otros ***')
+imprimir_nombres(listOtros)
+
 
 
 
